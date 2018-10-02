@@ -1,6 +1,13 @@
 body {
   position: relative;
 }
+.main-header {
+	color: red
+ } 
+
+ #header-level-3 {
+color: orange
+ 	}
 
 #fixed-block {
 }
