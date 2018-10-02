@@ -11,3 +11,11 @@ color: orange
 
 #fixed-block {
 }
+
+
+#alert {
+  width: 250px; 
+  position: fixed;
+  top: 30px;
+  left: 100px;
+  }
